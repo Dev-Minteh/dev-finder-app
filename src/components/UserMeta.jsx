@@ -1,5 +1,3 @@
-import React from "react"
-
 const UserMeta = ({ icon, text, link = null, className = "space-x-4" }) => {
   return (
     <div
